@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "946881961050",
+    "project_id": "grade-calculator-e83f9",
+    "storage_bucket": "grade-calculator-e83f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946881961050:android:4b62d3de21f2455f2d0c63",
+        "android_client_info": {
+          "package_name": "com.example.gradecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946881961050-6r9knko0h6vm4n66n7qj79u91cfdv88b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gradecalculator",
+            "certificate_hash": "a6e4df1fae2ca4939d1760ad2bfbeec3be401d2c"
+          }
+        },
+        {
+          "client_id": "946881961050-m72f3ud485b60d4n35ou5abca2rifnl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7V3PXsd5Z7yCkusBz99SgHsiGUnL27XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946881961050-m72f3ud485b60d4n35ou5abca2rifnl8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "946881961050-m1r6tk3cmoih4tueue0t0eivn3evf2kd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gradecalculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
